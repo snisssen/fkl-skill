@@ -1,0 +1,3 @@
+topic (called|named) (?P<topic_name>.*)
+topic (?P<topic_name>.*)
+(?:my|the)\s+(?P<topic_name>(?:(?!(to|from)\s+(my|the)\s+).)+?)\s+topic

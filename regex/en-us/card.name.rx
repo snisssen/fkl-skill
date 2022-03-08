@@ -1,0 +1,1 @@
+(add|create|remove) card (?P<card_name>.*) 
